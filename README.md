@@ -2,4 +2,4 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 001 | Dec, 18 |  | [Glassmorphism Stopwatch](https://github.com/nat-davydova/glassmorphism-stopwatch) - small refactoring, watch header and description |
+| 001 | Jan, 01 |  | [Glassmorphism Stopwatch](https://github.com/nat-davydova/glassmorphism-stopwatch) - UI is completed including responsiveness |

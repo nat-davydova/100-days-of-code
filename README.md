@@ -2,5 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 004 | Jan, 05 |  | [Glassmorphism Stopwatch](https://github.com/nat-davydova/glassmorphism-stopwatch) - move it to codepen |
+| 003 | Jan, 04 |  | [Glassmorphism Stopwatch](https://github.com/nat-davydova/glassmorphism-stopwatch) - full timer functionality is completed |
 | 002 | Jan, 02 |  | [Glassmorphism Stopwatch](https://github.com/nat-davydova/glassmorphism-stopwatch) - basic timer functionality is completed |
 | 001 | Jan, 01 |  | [Glassmorphism Stopwatch](https://github.com/nat-davydova/glassmorphism-stopwatch) - UI is completed including responsiveness |

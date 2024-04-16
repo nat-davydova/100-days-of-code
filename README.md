@@ -2,4 +2,5 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 002 | Apr, 08 | A11y Course - lection #4: "Screen readers usage in depth" (in progress) |  |
 | 001 | Apr, 08 | A11y Course - lection #4: "Screen readers usage in depth" (in progress) |  |

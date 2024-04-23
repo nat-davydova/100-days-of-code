@@ -2,4 +2,4 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 001 | Apr, 23 |  |  |
+| 001 | Apr, 23 | A11y Course: watched lection about using screen readers in depth (in progress) |  |

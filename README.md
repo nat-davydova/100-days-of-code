@@ -2,8 +2,9 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 007 | Apr, 29 |  | [Gradient Cards Concept](https://github.com/nat-davydova/gradient-cards-concept): complete preps, add cards structure, icons, basic styles and gradients |
-| 006 | Apr, 28 |  | [Gradient Cards Concept](https://github.com/nat-davydova/gradient-cards-concept): basic demo structure and styles preps |
+| 008 | Apr, 30 | A11y Course: watched lection about a11y in UI/UX (in progress) - contrast |  |
+| 007 | Apr, 29 |  | [Gradient Cards Concept](https://github.com/nat-davydova/gradient-cards-concept): completed preps, add cards structure, icons, basic styles and gradients |
+| 006 | Apr, 28 |  | [Gradient Cards Concept](https://github.com/nat-davydova/gradient-cards-concept): completed basic demo structure and styles preps |
 | 005 | Apr, 27 | A11y Course: watched lection about using screen readers in depth - practical screen reader usage on iPhone, Android (completed) |  |
 | 004 | Apr, 26 | A11y Course: watched lection about using screen readers in depth (in progress) - practical screen reader usage on iPhone |  |
 | 003 | Apr, 25 | A11y Course: watched lection about using screen readers in depth (in progress) - practical screen reader usage on iPhone |  |

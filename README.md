@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 010 | May, 02 |  | [Gradient Cards Concept](https://github.com/nat-davydova/gradient-cards-concept): completed all the basic design (title, description, price, button) |
 | 009 | May, 01 | A11y Course: watched lection about a11y in UI/UX (in progress) - colors completed, typography (in progress) |  |
 | 008 | Apr, 30 | A11y Course: watched lection about a11y in UI/UX (in progress) - contrast |  |
 | 007 | Apr, 29 |  | [Gradient Cards Concept](https://github.com/nat-davydova/gradient-cards-concept): completed preps, add cards structure, icons, basic styles and gradients |

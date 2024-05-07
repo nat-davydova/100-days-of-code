@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 013 | May, 07 |  | [Gradient Cards Concept](https://github.com/nat-davydova/gradient-cards-concept): fully completed and released |
 | 012 | May, 06 |  | [Gradient Cards Concept](https://github.com/nat-davydova/gradient-cards-concept): added all the complex gradients, shadows and decorations |
 | 011 | May, 03 |  | Watched (answered questions, solved problems) [mock frontend interview](https://www.youtube.com/watch?v=9nBbRK-Gfjg) |
 | 010 | May, 02 |  | [Gradient Cards Concept](https://github.com/nat-davydova/gradient-cards-concept): completed all the basic design (title, description, price, button) |

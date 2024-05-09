@@ -2,7 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 015 | May, 09 | A11y Course: watched lection about a11y in web (in progress) - intro, A11y tree (in progress)  | [SVG Clipped Slider](https://github.com/nat-davydova/svg-clipped-slider) - basic preps completed |
+| 015 | May, 09 | A11y Course: watched lection about a11y in web (in progress) - intro, A11y tree (in progress)  | [SVG Clipped Slider](https://github.com/nat-davydova/svg-clipped-slider) - basic preps  (in progress) |
 | 014 | May, 08 | A11y Course: watched lection about a11y in UI/UX - typography, buttons and links (completed)  | [SVG Clipped Slider](https://github.com/nat-davydova/svg-clipped-slider) - basic preps (in progress) |
 | 013 | May, 07 |  | [Gradient Cards Concept](https://github.com/nat-davydova/gradient-cards-concept): fully completed and released |
 | 012 | May, 06 |  | [Gradient Cards Concept](https://github.com/nat-davydova/gradient-cards-concept): added all the complex gradients, shadows and decorations |

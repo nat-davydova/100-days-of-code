@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 018 | May, 14 | Article ["A11y Tree"](https://doka.guide/a11y/a11y-tree/) (completed) |  |
 | 017 | May, 13 | Article ["A11y Tree"](https://doka.guide/a11y/a11y-tree/) (in progress) |  |
 | 016 | May, 10 |  | Tried to port my eslint config to v9.2.0, but unsuccessfully |
 | 015 | May, 09 | A11y Course: watched lection about a11y in web (in progress) - intro, A11y tree (in progress)  | [SVG Clipped Slider](https://github.com/nat-davydova/svg-clipped-slider) - basic preps  (in progress) |

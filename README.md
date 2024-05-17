@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 021 | May, 17 | A11y Course: watched lection about a11y in web (in progress)  |  |
 | 020 | May, 16 | A11y Course: watched lection about a11y in web (in progress)  |  |
 | 019 | May, 15 | A11y Course: watched lection about a11y in web (in progress) - A11y tree (in progress)  |  |
 | 018 | May, 14 | Article ["A11y Tree"](https://doka.guide/a11y/a11y-tree/) (completed) |  |

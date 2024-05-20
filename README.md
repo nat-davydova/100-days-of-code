@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 022 | May, 19 | A11y Course: watched lection about a11y in web (in progress)  |  |
 | 022 | May, 19 | A11y Course: watched lection about a11y in web (in progress) - displaying/hiding elements from AT  |  |
 | 021 | May, 17 | A11y Course: watched lection about a11y in web (in progress)  |  |
 | 020 | May, 16 | A11y Course: watched lection about a11y in web (in progress)  |  |

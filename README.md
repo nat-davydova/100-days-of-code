@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 023 | May, 19 | A11y Course: watched lection about a11y in web (in progress) - screen reader experiments with different types of content  |  |
 | 022 | May, 19 | A11y Course: watched lection about a11y in web (in progress)  |  |
 | 022 | May, 19 | A11y Course: watched lection about a11y in web (in progress) - displaying/hiding elements from AT  |  |
 | 021 | May, 17 | A11y Course: watched lection about a11y in web (in progress)  |  |

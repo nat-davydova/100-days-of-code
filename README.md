@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 026 | May, 23 | A11y Course: watched lection about a11y in web - completed  |  |
 | 025 | May, 22 |  | Gave [CSS3 Workshop](https://www.youtube.com/watch?v=yfy2vjzde-A) |
 | 024 | May, 21 | A11y Course: watched lection about a11y in web (in progress) - screen reader experiments with different types of content  |  |
 | 023 | May, 20 | A11y Course: watched lection about a11y in web (in progress)  |  |

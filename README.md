@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 028 | May, 25 | A11y Course: watched lection about iOS and non-visible a11y (in progress)  |  |
 | 027 | May, 24 | A11y Course: watched lection about iOS and non-visible a11y (in progress)  |  |
 | 026 | May, 23 | A11y Course: watched lection about a11y in web - completed  |  |
 | 025 | May, 22 |  | Gave [CSS3 Workshop](https://www.youtube.com/watch?v=yfy2vjzde-A) |

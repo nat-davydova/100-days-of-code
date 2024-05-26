@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 029 | May, 26 | • A11y Course: watched lection about iOS and non-visible a11y (in progress) - mobile a11y as a concept, Voice Over basics <br /> • [Clipping in CSS and SVG](https://www.sarasoueidan.com/blog/css-svg-clipping/#more-navigation) (in progress) |  |
 | 028 | May, 25 | A11y Course: watched lection about iOS and non-visible a11y (in progress)  |  |
 | 027 | May, 24 | A11y Course: watched lection about iOS and non-visible a11y (in progress)  |  |
 | 026 | May, 23 | A11y Course: watched lection about a11y in web - completed  |  |

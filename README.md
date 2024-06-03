@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 033 | Jun, 02 | [Clipping in CSS and SVG](https://www.sarasoueidan.com/blog/css-svg-clipping/#more-navigation) (in progress) |  |
 | 032 | May, 30 | A11y Course: watched lection about iOS and non-visible a11y (in progress) - 'how to' concepts (in progress) |  |
 | 031 | May, 29 | A11y Course: watched lection about iOS and non-visible a11y (in progress) - 'how to' concepts (in progress) |  |
 | 030 | May, 27 | A11y Course: watched lection about iOS and non-visible a11y (in progress) - Voice Over (completed), examples analysis, 'how to' concepts (in progress) |  |

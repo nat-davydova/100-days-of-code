@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 027 | Jun, 17 | A11y Course: watched lection about a11y in web #2 (in progress)  |  |
 | 036 | Jun, 14 |  | [SVG Clipped Slider](https://github.com/nat-davydova/svg-clipped-slider) - concept research |
 | 035 | Jun, 12 | A11y Course: watched lection about iOS and non-visible a11y - completed |  |
 | 034 | Jun, 11 | A11y Course: watched lection about iOS and non-visible a11y (in progress) - 'how to' concepts (in progress) |  |

@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 039 | Jun, 26 | • A11y Course: watched lection about a11y in web #2 (in progress) - types of roles <br /> • `<search /> tag [article on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/search) |  |
 | 038 | Jun, 25 |  | [SVG Clipped Slider](https://github.com/nat-davydova/svg-clipped-slider) - created basic slider structure |
 | 037 | Jun, 17 | A11y Course: watched lection about a11y in web #2 (in progress)  |  |
 | 036 | Jun, 14 |  | [SVG Clipped Slider](https://github.com/nat-davydova/svg-clipped-slider) - concept research |

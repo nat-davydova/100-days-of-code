@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 041 | Jun, 29 | A11y Course: watched lection about a11y in web #2 (in progress) - types of roles, values and props |  |
 | 040 | Jun, 27 |  | [SVG Clipped Slider](https://github.com/nat-davydova/svg-clipped-slider) - created color scheme, nav btns, title |
 | 039 | Jun, 26 | • A11y Course: watched lection about a11y in web #2 (in progress) - types of roles <br /> • `<search />` tag [article on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/search) |  |
 | 038 | Jun, 25 |  | [SVG Clipped Slider](https://github.com/nat-davydova/svg-clipped-slider) - created basic slider structure |

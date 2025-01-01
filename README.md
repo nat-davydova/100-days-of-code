@@ -1,6 +1,5 @@
-# 100-days-of-code
+# 100 Days Of Code
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 002 | Oct, 24 | Debugging Course - Deep DevTools Debugging (in progress) |  |
-| 001 | Oct, 21 | Debugging Course - Deep DevTools Debugging (in progress) |  |
+| 001 | Jan, 1 | Frontend Infrastructure Cource - Node basics, CJS/ESM, extending Node, Node alternatives, YAML basics |  |

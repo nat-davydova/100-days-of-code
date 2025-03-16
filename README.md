@@ -2,4 +2,4 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 001 | Mar, 8 | `:has()` selector [article by Ahmad Shadeed]([url](https://ishadeed.com/article/css-has-parent-selector/)) |  |
+| 001 | Mar, 16 | YDKJS - [Chapter 1: this Or That?](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch1.md) |  |

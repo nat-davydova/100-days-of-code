@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 007 | Mar, 28 | YDKJS - [Chapter 3: Objects](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch3.md) (in progress) |  |
 | 006 | Mar, 26 |  | [JS Questions](https://github.com/lydiahallie/javascript-questions) - #71-155 |
 | 005 | Mar, 25 |  | [JS Questions](https://github.com/lydiahallie/javascript-questions) - #1-70 |
 | 004 | Mar, 24 | YDKJS - [Chapter 3: Objects](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch3.md) (in progress) |  |

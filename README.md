@@ -1,1 +1,5 @@
-# 100-days-of-code
+# 100 Days Of Code
+
+| Day | Date | Studied | Practiced |
+| --- | --- | --- | --- |
+| 001 |  |  |

@@ -2,7 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 008 | Sep, 11 | `for`-loop |  |
+| 008 | Sep, 11 | `for`-loop, errors handling: Error |  |
 | 007 | Sep, 10 | Booleans, if/else/, switch |  |
 | 006 | Sep, 08 | Functions: basics, return multiple values, alternative return syntax, scopes (basic) | Currencies converter: adding user input func and converter func draft |
 | 005 | Sep, 07 | User input and output, more on output strings formatting |  |

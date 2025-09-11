@@ -2,7 +2,8 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 007 | Sep, 09 | Booleans, if/else/, switch |  |
+| 008 | Sep, 11 | `for`-loop |  |
+| 007 | Sep, 10 | Booleans, if/else/, switch |  |
 | 006 | Sep, 08 | Functions: basics, return multiple values, alternative return syntax, scopes (basic) | Currencies converter: adding user input func and converter func draft |
 | 005 | Sep, 07 | User input and output, more on output strings formatting |  |
 | 004 | Sep, 06 | Basic types casting, 2 variables notations, consts typed and untyped | Currencies converter: initing project, adding basic consts |

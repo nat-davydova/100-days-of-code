@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 009 | Sep, 15 | errors handling: Panic, Recover | Currencies converter: completed all the converting project |
 | 008 | Sep, 11 | `for`-loop, errors handling: Error |  |
 | 007 | Sep, 10 | Booleans, if/else/, switch |  |
 | 006 | Sep, 08 | Functions: basics, return multiple values, alternative return syntax, scopes (basic) | Currencies converter: adding user input func and converter func draft |

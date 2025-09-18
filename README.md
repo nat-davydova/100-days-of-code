@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 010 | Sep, 18 |  | Currencies converter: refactor projects |
 | 009 | Sep, 15 | errors handling: Panic, Recover | Currencies converter: completed all the converting project |
 | 008 | Sep, 11 | `for`-loop, errors handling: Error |  |
 | 007 | Sep, 10 | Booleans, if/else/, switch |  |

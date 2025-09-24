@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 012 | Sep, 24 | Slices: length vs capacity |  |
 | 011 | Sep, 22 | Arrays: basic arrays, Slices: basics |  |
 | 010 | Sep, 18 |  | Currencies converter: refactor projects |
 | 009 | Sep, 15 | errors handling: Panic, Recover | Currencies converter: completed all the converting project |

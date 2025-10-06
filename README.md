@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
+| 014 | Oct, 06 | Slices: unpack | Expances tracker: adding user input |
 | 013 | Sep, 29 |  | Currencies convertor: refactor completed <br /> Expances tracker: adding user input (in progress) |
 | 012 | Sep, 24 | Slices: length vs capacity |  |
 | 011 | Sep, 22 | Arrays: basic arrays, Slices: basics |  |

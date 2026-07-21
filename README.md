@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Coded |
 | --- | --- | --- | --- |
+| 008 | Jul 21, 26 | FSD: теория - layers, slices (еще раз, с большим погружением) |  |
 | 007 | Jul 17, 26 | FSD: теория - basics, layers, slices |  |
 | 006 | Jul 16, 26 | Повторила Events | Закончила с DOM-аспектом Range Slider, начала разбираться с CSS-частью |
 | 005 | Jul 13, 26 | Node properties: type, tag and contents ([article](https://javascript.info/basic-dom-node-properties)) - закончила, Events: Bubbling and capturing ([article](https://javascript.info/bubbling-and-capturing)) - начала | Продолжаю разбираться с DOM-аспектом Range Slider и внутрянкой |

@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Coded |
 | --- | --- | --- | --- |
+| 009 | Jul 23, 26 | FSD: теория - segments, практика - курсовые тесты и задания |  |
 | 008 | Jul 21, 26 | FSD: теория - layers, slices (еще раз, с большим погружением) |  |
 | 007 | Jul 17, 26 | FSD: теория - basics, layers, slices |  |
 | 006 | Jul 16, 26 | Повторила Events | Закончила с DOM-аспектом Range Slider, начала разбираться с CSS-частью |

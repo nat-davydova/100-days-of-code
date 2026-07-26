@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Coded |
 | --- | --- | --- | --- |
+| 011 | Jul 26, 26 | Range Sliders Styles - [article](https://www.smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/) (закончила) | Закончила с CSS-аспектом Range Slider |
 | 010 | Jul 24, 26 | Range Sliders Styles - [article](https://www.smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/) (в процессе) |  |
 | 009 | Jul 23, 26 | FSD: теория - segments, практика - курсовые тесты и задания |  |
 | 008 | Jul 21, 26 | FSD: теория - layers, slices (еще раз, с большим погружением) |  |

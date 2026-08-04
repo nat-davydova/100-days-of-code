@@ -2,6 +2,7 @@
 
 | Day | Date | Studied | Coded |
 | --- | --- | --- | --- |
+| 014 | Aug 4, 26 | FSD: shared layer | FSD - начала домашний проект |
 | 013 | Jul 29, 26 |  | Range Slider ([vanilla version](https://github.com/nat-davydova/range-slider-concept-js)) - проект начат, добавлены линтеры и базовое оформление |
 | 012 | Jul 27, 26 | FSD: app layer | FSD - начала курсовой проект |
 | 011 | Jul 26, 26 | Range Sliders Styles - [article](https://www.smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/) (закончила) | Закончила с CSS-аспектом Range Slider |
